@@ -1,0 +1,116 @@
+# Copyright (C) 2024 100plugins
+# This file is distributed under the GPL-3.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: AI Text Enhancer 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ai-text-enhancer\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-26T00:07:47+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: ai-text-enhancer\n"
+
+#. Plugin Name of the plugin
+msgid "AI Text Enhancer"
+msgstr ""
+
+#. Description of the plugin
+msgid "Improve the quality of your text with AI. Just press the magic button and get your text optimized."
+msgstr ""
+
+#. Author of the plugin
+msgid "100plugins"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://100plugins.com/"
+msgstr ""
+
+#: admin/class-aite-admin.php:202
+msgid "Email is not correct"
+msgstr ""
+
+#: admin/class-aite-admin.php:241
+msgid "Select an AI provider"
+msgstr ""
+
+#: admin/class-aite-admin.php:256
+#: admin/class-aite-admin.php:283
+msgid "AI Provider"
+msgstr ""
+
+#: admin/class-aite-admin.php:266
+#: admin/class-aite-admin.php:293
+msgid "WordAI 🇬🇧"
+msgstr ""
+
+#: admin/class-aite-admin.php:270
+#: admin/class-aite-admin.php:297
+msgid "ChatGPT-3.5 (Multilingual) [PRO]"
+msgstr ""
+
+#: admin/class-aite-admin.php:309
+msgid "WordAI"
+msgstr ""
+
+#: admin/class-aite-admin.php:321
+msgid "Email"
+msgstr ""
+
+#: admin/class-aite-admin.php:333
+#: admin/class-aite-admin.php:391
+msgid "API Key"
+msgstr ""
+
+#: admin/class-aite-admin.php:345
+msgid "The number of rewrites you'd like WordAI to create for your original text"
+msgstr ""
+
+#: admin/class-aite-admin.php:360
+msgid "Uniqueness"
+msgstr ""
+
+#: admin/class-aite-admin.php:379
+msgid "ChatGPT"
+msgstr ""
+
+#: admin/class-aite-admin.php:431
+msgid "Settings Saved"
+msgstr ""
+
+#: admin/partials/settings-page.php:30
+msgid "AI Text Enhancer is a powerful tool that improves your writing by fixing grammar, enriching vocabulary, and optimizing your style. With advanced AI technology, it transforms your text into a polished, engaging piece."
+msgstr ""
+
+#: admin/partials/settings-page.php:31
+msgid "Getting started:"
+msgstr ""
+
+#: admin/partials/settings-page.php:33
+msgid "Select an AI provider (WordAI or ChatGPT) and save your API key here in the settings"
+msgstr ""
+
+#: admin/partials/settings-page.php:34
+msgid "Highlight the text block that should be improved and click the magic button ✨"
+msgstr ""
+
+#: admin/partials/settings-page.php:51
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/settings-section-chatgpt.php:17
+msgid "Setup the ChatGPT API connection here."
+msgstr ""
+
+#: admin/partials/settings-section-chatgpt.php:19
+#: admin/partials/settings-section-wordai.php:19
+msgid "You can get an API Key <a href=\"%s\">here</a>."
+msgstr ""
+
+#: admin/partials/settings-section-wordai.php:17
+msgid "Setup the WordAI API connection."
+msgstr ""
